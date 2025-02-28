@@ -45,3 +45,46 @@ Um README eficiente deve começar com uma visão geral clara do projeto, explica
 <h4 align="center">
     Em construção :rocket:
 </h4>
+
+## Funcionalidades
+
+- [x] README com Markdown
+- [x] README com HTML
+- [ ] Badge
+
+## Pré-Requisitos
+
+- [VSCode](https://code.visualstudio.com/)
+- [GIT](https://git-scm.com/)
+
+## Executar o Projeto
+
+```bash
+# Clone do repositório
+git clone <path do repositório>
+
+# Acesse a pasta do projeto via terminal
+cd meu-projeto
+
+# Abrir o VSCode no <path do repositório>
+code .
+
+
+
+```
+
+## Mapa do Projeto
+
+```bash
++---img             // Contém as imagens do README
++---temp            // Pasta temp para gerar tree
+ª   +---temp-1      // Pasta temp par gerar tree
+ª   +---temp-2      // Pasta temp par gerar tree
++---temp copy       // Pasta temp para gerar tree
+    +---temp-1      // Pasta temp para gerar tree
+    +---temp-2      // Pasta temp para gerar tree
+```
+
+## Tecnologias utilizadas # <<-- windows .
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [MARKDOWN](https://www.markdownguide.org/)
